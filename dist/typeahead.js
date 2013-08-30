@@ -862,7 +862,8 @@
         }, css = {
             wrapper: {
                 position: "relative",
-                display: "inline-block"
+                display: "inline-block",
+                width:'100%'
             },
             hint: {
                 position: "absolute",
